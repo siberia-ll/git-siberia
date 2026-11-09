@@ -10,6 +10,8 @@
 - `git commit` —— 把暂存区的内容存成一个版本
 - `git push` —— 把本地提交推到 GitHub
 
-## 待验证
+## 验证结果
 
-提交记录里能不能正确显示我的名字和邮箱。
+- 本地提交记录：`Siberia <209513613@qq.com>`
+- 远程仓库地址：https://github.com/siberia-ll/git-siberia
+- 推送方式：SSH，走本地密钥，不需要输密码
